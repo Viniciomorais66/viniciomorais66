@@ -18,7 +18,7 @@
 </td>
 <td><a href="https://replit.com/@aramuni"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/replit3.svg?raw=true "largura="50px" altura="50px"/></a>
 </td>
-<td><a href="mailto:viniciomorais66@gmail.com" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/gmail2.png?raw =true" largura="50px" altura="50px"/></a>
+<td><a href="mailto:viniciomorais66@gmail.com" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/gmail4.png?raw =true" largura="50px" altura="50px"/></a>
 </td>
 <td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/wpp2.png ?raw=true" largura="50px" altura="50px"/></a>
 </td>
