@@ -24,7 +24,7 @@
 </td>
 <td><a href="https://www.instagram.com/viniciomorais66/" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/instagram.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/viniciomorais66/" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/viniciomorais66/" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
 </td>
