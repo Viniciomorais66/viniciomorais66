@@ -8,11 +8,11 @@
 
 -----
 
-<div alinhar="centro">
-<tabela>
+<div align="center">
+<table>
 <tr>
- <td alinhar="center" colspan="11"></td>
-</tr>
+ <td align="center" colspan="11"></td>
+</tr> 
 <tr>
 <td><a href="https://github.com/viniciomorais66" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/code.png?raw=true" largura="50px" altura="50px"/></a>
 </td>
