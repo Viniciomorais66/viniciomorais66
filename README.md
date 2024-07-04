@@ -16,27 +16,22 @@
 <tr>
 <td><a href="https://github.com/viniciomorais66" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/code.png ?raw=true" largura="50px" altura="50px"/></a>
 </td>
-<td><a href="https://replit.com/@aramuni"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/replit3.svg?raw=true "largura="50px" altura="50px"/></a>
+<td><a href="mailto:viniciomorais66@gmail.com" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/gmailvitor.png?raw =true" largura="50px" altura="50px"/></a>
 </td>
-<td><a href="mailto:viniciomorais66@gmail.com" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/email11.png?raw =true" largura="50px" altura="50px"/></a>
+<td><a href="https://wa.me/5531983933077" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/whatsapp.png ?raw=true" largura="50px" altura="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/wpp2.png ?raw=true" largura="50px" altura="50px"/></a>
+<td><a href="https://www.instagram.com/viniciomorais66/" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/instagram-vitor.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/viniciomorais66/" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/instagram.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/viniciomorais66/" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/linkedinvitor.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/viniciomorais66/" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/ folga.png?raw=true" width="50px" height="50px"/></a>
+
 </td>-->
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/discord2 .png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main /img/skoob2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com /viniciomorais66/viniciomorais66/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>
+
 </td>
-<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/calendar2. png?raw=true" width="50px" height="50px"/></a>
+
 </td>
 </tr>
 <tr>
