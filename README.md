@@ -14,11 +14,11 @@
  <td alinhar="center" colspan="11"></td>
 </tr>
 <tr>
-<td><a href="https://github.com/viniciomorais66" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/code.png ?raw=true" largura="50px" altura="50px"/></a>
+<td><a href="https://github.com/viniciomorais66" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/code.png?raw=true" largura="50px" altura="50px"/></a>
 </td>
 <td><a href="mailto:viniciomorais66@gmail.com" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/gmailvitor.png?raw =true" largura="50px" altura="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531983933077" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/whatsapp.png ?raw=true" largura="50px" altura="50px"/></a>
+<td><a href="https://wa.me/5531983933077" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/whatsapp.png?raw=true" largura="50px" altura="50px"/></a>
 </td>
 <td><a href="https://www.instagram.com/viniciomorais66/" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/instagram-vitor.png?raw=true" width="50px" height="50px"/></a>
 </td>
