@@ -24,9 +24,7 @@
 </td>
 <td><a href="https://www.linkedin.com/in/viniciomorais66/" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/linkedinvitor.png?raw=true" width="50px" height="50px"/></a>
 </td>
-
-</td>-->
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/425974132581203968" target="_blank"><img src="https://github.com/viniciomorais66/viniciomorais66/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </td>
 
