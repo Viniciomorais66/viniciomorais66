@@ -51,7 +51,7 @@
 <p> 
 - :mortar_board: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de Ciência da Computação.<br />
 - :atom: &nbsp; Sou entusiasta da Linguagem X zzzzzzzzzz... <a href="https://github.com/" target="_blank">aqui</a>.<br />
-- :soccer: &nbsp; Sou Atleticano, torço para o <a href="https://www.atletico.com.br/" target="_blank">Galo</a>. 🐔_face:<br />
+- :soccer: &nbsp; Sou Atleticano, torço para o <a href="https://www.atletico.com.br/" target="_blank">Galo</a>. 🐔<br />
 - :basketball: &nbsp; Meus hobbies são <a href="https://www.callofduty.com/br/pt" target="_blank">Jogos</a>, <a href="https://open.spotify.com/playlist/5qhCyURJsVVbU7zDcwn4Z9?si=d2644bd1fa264fe8" target="_blank">Festas</a> e <a href="https://www.instagram.com/vitor_aarao/" target="_blank">Um bom Lifestyle</a> (viagens, boa comida e experiências).<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:vitoraarao9@gmail.com" target="_blank">e-mail</a> pessoal.<br />
