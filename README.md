@@ -36,7 +36,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Vinicio</code>, tenho 21 anos, e sou programador desde 2024. Atualmente sou <code>aluno</code> no curso de Ciência da Computação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e.
+<i><b>Olá</b> :wave:, sou o <code>Vinicio</code>, tenho 21 anos, e sou programador desde 2024. Atualmente sou <code>aluno</code> no curso de Ciência da Computação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
 </div>
 
 -----
