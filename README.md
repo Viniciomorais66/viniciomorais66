@@ -62,4 +62,3 @@
 -----
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/Vitoraarao/Vitoraarao/blob
