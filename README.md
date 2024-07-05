@@ -54,8 +54,7 @@
 - :soccer: &nbsp; Sou Atleticano, torço para o <a href="https://www.atletico.com.br/" target="_blank">Galo</a>. 🐔<br />
 - :basketball: &nbsp; Meus hobbies são Jogos e Esportes. :basketball: :soccer: 🏎️ <br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:vitoraarao9@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :page_facing_up: &nbsp; Apaixonado por <a href="https://www.todamateria.com.br/historia/" target="_blank">História</a>, <a href="https://www.todamateria.com.br/o-que-e-sociologia/" target="_blank">Sociologia</a> e <a href="https://www.educamaisbrasil.com.br/cursos-e-faculdades/medicina" target="_blank">Medicina</a> .
+- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:viniciomorais66.com" target="_blank">e-mail</a> pessoal.<br />
 </p>
 </div>
 </div>
